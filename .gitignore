@@ -32,8 +32,6 @@ ksdefines.h
 *.out
 *.app
 
-=======
->>>>>>> 522ab1722499e4281337ed60689b16c80070c5b4
 # Xcode
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
